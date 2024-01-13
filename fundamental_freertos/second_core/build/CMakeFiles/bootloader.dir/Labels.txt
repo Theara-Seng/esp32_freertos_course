@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/theara/esp/fundamental_freertos/second_core/build/CMakeFiles/bootloader
+/home/theara/esp/fundamental_freertos/second_core/build/CMakeFiles/bootloader.rule
+/home/theara/esp/fundamental_freertos/second_core/build/CMakeFiles/bootloader-complete.rule
+/home/theara/esp/fundamental_freertos/second_core/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/theara/esp/fundamental_freertos/second_core/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/theara/esp/fundamental_freertos/second_core/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/theara/esp/fundamental_freertos/second_core/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/theara/esp/fundamental_freertos/second_core/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/theara/esp/fundamental_freertos/second_core/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/theara/esp/fundamental_freertos/second_core/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
